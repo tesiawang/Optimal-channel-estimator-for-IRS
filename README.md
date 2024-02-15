@@ -2,7 +2,7 @@
 
 This repository is the replication results of the paper "An optimal channel estimation scheme for intelligent reflecting surfaces based on a minimum variance unbiased estimator"[1].
 
-The simulation is conducted using Matlab. The code only convers Least Squares estimator, but it should be easily extended of LMMSE estimator by including prior information of channels (i.e., channel correlation).
+The simulation is conducted using Matlab. The code only convers Least Squares estimator, but it should be easily extended to LMMSE estimator by including prior information of channels (i.e., channel correlation).
 
 Please find the PDF document (project report) for detailed description of the methodology and replication results.
 
